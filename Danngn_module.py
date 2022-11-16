@@ -1,8 +1,8 @@
-import re
+import rehttps://github.com/Yamang02/Jooongo/blob/main/Danngn_module.py
 import requests
 from bs4 import BeautifulSoup
 
-Dg_item_l = []
+Dg_item_l = {}
 
 def Dg_keyword(keyword):
 
